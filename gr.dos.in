@@ -1,0 +1,7 @@
+&DOS
+ prefix='gr',
+ outdir='./tmp/',
+ fildos='gr.dos'
+ emin=-10.0,
+ emax=15.0,
+/
